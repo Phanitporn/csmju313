@@ -17,3 +17,19 @@
     height: auto;
     background:url(https://i.pinimg.com/564x/3d/ae/91/3dae916afdcdf00e62fe9baefaf506c8.jpg);
 }
+
+.don{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background:url(https://board.postjung.com/data/653/653005-img-1358520145-7.jpg);
+
+}
+
+.eon{
+    max-width: 100%;
+    height: auto;
+    background:url(https://images.wallpaperscraft.com/image/gradient_green_texture_131365_300x168.jpg);
+}
+
