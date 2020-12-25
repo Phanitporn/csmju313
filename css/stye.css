@@ -1,7 +1,19 @@
-#footer {
+/* #footer {
     width: 100%;
     padding: 15px 0;
     background-color: #8c1515;
     border: 0;
     border-top: 5px solid #a07617;
+} */
+.weblink .weblink-card-wrapper {
+    display: flex;
+    width: 20%;
+    padding-left: .875rem;
+    padding-right: .875rem;
+    margin-bottom: calc(.875rem * 3.5);
+}
+.con{
+    max-width: 100%;
+    height: auto;
+    background:url(https://i.pinimg.com/564x/3d/ae/91/3dae916afdcdf00e62fe9baefaf506c8.jpg);
 }
